@@ -1,6 +1,5 @@
 
 function validate(){
-  console.log("login validate");
  // document.getElementById('id01').textContent="";
   document.getElementById("eerror").textContent="";
   document.getElementById("perror").textContent="";
